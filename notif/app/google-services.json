@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44051209802",
+    "project_id": "notif-dfcae",
+    "storage_bucket": "notif-dfcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44051209802:android:068c4426a38565b838d0b3",
+        "android_client_info": {
+          "package_name": "com.leavingston.notif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44051209802-jbsjdtrrncoacvf5f9bfq8m0880ljpl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leavingston.notif",
+            "certificate_hash": "082faa10bc68501cb2e852d4bcdda4b55125b91d"
+          }
+        },
+        {
+          "client_id": "44051209802-5pm4q335lg5d61uol8rb13qr66f7neit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzbPMwlOR0jKv62DAGH68-3vvlrW2vCCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44051209802-5pm4q335lg5d61uol8rb13qr66f7neit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
